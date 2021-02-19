@@ -1,6 +1,10 @@
 # DCIC2021
 # 2021数字中国创新大赛大数据赛道-城市管理大数据专题
 
+# 第一次提交结果
+
+![提交结果得分](https://github.com/igeng/DCIC2021/blob/main/pic/task01_result.png)
+
 ## 早高峰共享单车潮汐点的群智优化-比赛网址
 https://data.xm.gov.cn/contest-series/digit-china-2021/#/3/contest_explain?projectId=c81952239f3411eab1d014187758123f
 ## 1、赛题任务解析
